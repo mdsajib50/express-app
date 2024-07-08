@@ -1,0 +1,5 @@
+{
+    "semi": false,
+    "singleQuote": true, 
+    "arrowParens": "avoid", // Include parenthesis around a sole arrow function parameter
+  }
